@@ -1,6 +1,6 @@
 # Thibault Mougin  
 
-<img align="left" alt="Python" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:4px;" />          
+<img align="left" alt="Python" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  />          
 <img align="left" alt="Matlab" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="padding-right:10px;" />        
 <img align="left" alt="Fortran" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" style="padding-right:10px;" />     
 <img align="left" alt="C" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right:10px;" />          
