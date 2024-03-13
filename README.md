@@ -16,6 +16,6 @@
 
 ---
 
-[<img  alt="Linkedin" width="44px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/thibault-mougin-14098b220/)  [<img align="left" alt="chess.com" width="28px" src ="./img/chesscom_pawn.png" style="padding-left:10px;" />](https://www.chess.com/member/nanobruh) 
+[<img align="left" alt="Linkedin" width="44px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/thibault-mougin-14098b220/)  [<img align="left" alt="chess.com" width="28px" src ="./img/chesscom_pawn.png" style="padding-left:10px;" />](https://www.chess.com/member/nanobruh) 
 
 
